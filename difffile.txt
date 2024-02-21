@@ -1,0 +1,2 @@
+Adding some text to the diff file
+and some more on line two
